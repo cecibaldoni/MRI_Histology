@@ -13,9 +13,8 @@
 </html>  
   
 5. Once the files are uploaded, you can drop them on the right part of the screen to visualize them: select from the list ``postmortem_rare.nii.gz``, drag it and drop it to ``drop as orthoview``  
-<img src="https://user-images.githubusercontent.com/111133332/201083175-b561457c-5209-4e70-84c8-9fd82788a3ad.png">
-
-
+<img src="https://user-images.githubusercontent.com/111133332/201112329-1197d875-286e-4831-9ae2-f5abb26c499b.png" width=65% height=50%>  
+  
 6. You should now have the orthogonal projection of the common shrew brain. You can navigate thought the slices from each quadrant by scrolling with the mouse wheel, or by clicking the two arrows and then selecting the slice. Note that the motion on one quadrant will automatically set the corrected position in the other quadrants.  
 <html>
 <img src="https://user-images.githubusercontent.com/111133332/201111086-e4a01c5d-a115-4794-9fc3-3cc2b2b5128c.png">
