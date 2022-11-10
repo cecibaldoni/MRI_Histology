@@ -18,7 +18,7 @@
 
 6. You should now have the orthogonal projection of the common shrew brain. You can navigate thought the slices from each quadrant by scrolling with the mouse wheel, or by clicking the two arrows and then selecting the slice. Note that the motion on one quadrant will automatically set the corrected position in the other quadrants.  
 <html>
-<img src="https://user-images.githubusercontent.com/111133332/201105409-e9a7c007-ea2a-4a87-bc69-799eb7aac07d.png>
-</html> 
+<img src="https://user-images.githubusercontent.com/111133332/201111086-e4a01c5d-a115-4794-9fc3-3cc2b2b5128c.png">
+</html>  
 7. 
 8. 
