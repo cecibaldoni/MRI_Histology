@@ -19,7 +19,7 @@
 <html>
 <img src="https://user-images.githubusercontent.com/111133332/201111086-e4a01c5d-a115-4794-9fc3-3cc2b2b5128c.png">
 </html>  
-7. Now you can add the different brain regions on top of the scans. From the workspace, select one region of interest and drag it to one of the quadrant, then drop it over ``drop as overlay - drop as orthoview`` :  
-  8.  
-9. tante banane
-10. 
+7. Now you can add the different brain regions on top of the scans. From the workspace, select one region of interest and drag it to one of the quadrant, then drop it over ``drop as overlay - drop as orthoview``  
+All the different regions can be added as overlay
+<img src="https://user-images.githubusercontent.com/111133332/204234103-1000837a-1b2a-493d-a988-60030a73b162.png" width=65% height=50%>  
+8. 
