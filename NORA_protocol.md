@@ -21,5 +21,4 @@
 </html>  
 7. Now you can add the different brain regions on top of the scans. From the workspace, select one region of interest and drag it to one of the quadrant, then drop it over ``drop as overlay - drop as orthoview``  
 All the different regions can be added as overlay
-<img src="https://user-images.githubusercontent.com/111133332/204234103-1000837a-1b2a-493d-a988-60030a73b162.png" width=65% height=50%>  
-8. 
+<img src="https://user-images.githubusercontent.com/111133332/204235159-a05e86dc-6ec9-418b-9513-f515592e5a15.png" width=65% height=50%>
